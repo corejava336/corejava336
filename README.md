@@ -1,11 +1,72 @@
 Hi there, I'm Yogi Gopisetti 👋
+
 <img width="813" alt="github" src="https://github.com/user-attachments/assets/9c0db7e5-1e6a-408b-8f60-d93e6a084b64">
 
-🔭 I am honing my dev and python skills.
-🌱 I am currently learning Full Stack Dvelopment further more.
-👯 I’m looking to collaborate in web dev projects
-📫 How to reach me:<a href="yogigopisetti3075@gmail.com"> <img src="https://camo.githubusercontent.com/ef9e6d40b1ad788ad98f0d378dacdd596ee050fafc36b309e8348d347d5e6228/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61726a796f373740676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=yogigopisetti3075@gmail.com" style="max-width: 100%;"></a>
-⚡ Fun fact: I love to meditate.
+• 🔭 I am honing my development and Python skills.  
+• 🌱 I am currently learning Full Stack Development further.  
+• 👯 I’m looking to collaborate on web development projects.  
+• 📫 How to reach me: [Gmail](mailto:yogigopisetti3075@gmail.com) ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=yogigopisetti3075@gmail.com)  
+• ⚡ Fun fact: I love to meditate.
+
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3schools.com/cpp/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://expressjs.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://git-scm.com/" rel="nofollow">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3.org/html/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.mongodb.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://nodejs.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.python.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://reactjs.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://getbootstrap.com" rel="nofollow">
+    <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://jquery.com" rel="nofollow">
+    <img src="https://img.icons8.com/ios/jquery.png" alt="jquery" width="40" height="40" style="max-width: 100%;">
+  </a>
+</p>
+<hr></hr>
+### Connect with Me
+
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile/" rel="nofollow" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.geeksforgeeks.org/" rel="nofollow" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/geeks-for-geeks.png" alt="GeeksforGeeks" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://leetcode.com/" rel="nofollow" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="LeetCode" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.hackerrank.com/" rel="nofollow" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/hackerrank.png" alt="HackerRank" width="40" height="40" style="max-width: 100%;">
+  </a>
+</p>
 
 <!---
 corejava336/corejava336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
