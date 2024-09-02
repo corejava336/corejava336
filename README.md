@@ -54,17 +54,17 @@ Hi there, I'm Yogi Gopisetti 👋
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" rel="nofollow" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/yogi-gopisetti/" rel="nofollow" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40" height="40" style="max-width: 100%;">
   </a>
-  <a href="https://www.geeksforgeeks.org/" rel="nofollow" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/geeks-for-geeks.png" alt="GeeksforGeeks" width="40" height="40" style="max-width: 100%;">
+  <a href="https://www.geeksforgeeks.org/user/yogigopisetti3075/" rel="nofollow" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" width="40" height="40" style="max-width: 100%;">
   </a>
-  <a href="https://leetcode.com/" rel="nofollow" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="LeetCode" width="40" height="40" style="max-width: 100%;">
+  <a href="https://leetcode.com/u/VK7jAKpqEF/" rel="nofollow" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw2mXJeqqlNkokVww_uuDVCP&ust=1725380734842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCVsqDWpIgDFQAAAAAdAAAAABAE" alt="LeetCode" width="40" height="40" style="max-width: 100%;">
   </a>
-  <a href="https://www.hackerrank.com/" rel="nofollow" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/hackerrank.png" alt="HackerRank" width="40" height="40" style="max-width: 100%;">
+  <a href="https://www.hackerrank.com/profile/yogigopisetti301" rel="nofollow" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
 
