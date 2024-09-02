@@ -61,7 +61,7 @@ Hi there, I'm Yogi Gopisetti 👋
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://leetcode.com/u/VK7jAKpqEF/" rel="nofollow" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="40" height="40" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://www.hackerrank.com/profile/yogigopisetti301" rel="nofollow" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="max-width: 100%;">
